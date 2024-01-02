@@ -1,1 +1,1 @@
-# prompt.github.io
+ # Prompt Engineering is like a magic.
