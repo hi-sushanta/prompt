@@ -1,13 +1,13 @@
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/sushanta-das-/
     new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
-    social_icon: Twitter
+    social_icon: LinkedIn
+  - name: Threads
+    link: https://www.threads.net/@hi_chiai/
+    social_icon: Threads
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
+  - name: GitHub
+    link: https://github.com/hi-sushanta/
+    social_icon: GitHub
     new_window: true
