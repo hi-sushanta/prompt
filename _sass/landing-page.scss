@@ -80,6 +80,17 @@
 	font-size: 28px;
 }
 
+.highlight-yellow {
+	border-radius: 0 0 1em 0;
+	background-image: linear-gradient(
+	  -100deg,
+	  rgba(255, 224, 0, 0.2),
+	  rgba(255, 224, 0, 0.7) 95%,
+	  rgba(255, 224, 0, 0.1)
+	);
+  
+  }
+
 .welcome {
     font-size:28px;
 	text-align: center;
