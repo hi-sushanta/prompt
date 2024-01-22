@@ -117,15 +117,16 @@ blockquote:before {
 	margin-right: 0.10em;
 	vertical-align: -0.4em;
 }
+
 .suggestion::after{
     color: #ccc;
     content: close-quote;
-    font-size: 2em;
+    font-size: 3em;
     line-height: 0.1em;
     margin-right: 0.10em;
+    margin-left:0.10em;
     vertical-align: -0.4em
 }
-
 .square-image {
 	width: 150px;
 	height: 150px;
