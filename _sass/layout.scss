@@ -117,6 +117,14 @@ blockquote:before {
 	margin-right: 0.10em;
 	vertical-align: -0.4em;
 }
+.suggestion::after{
+    color: #ccc;
+    content: close-quote;
+    font-size: 2em;
+    line-height: 0.1em;
+    margin-right: 0.10em;
+    vertical-align: -0.4em
+}
 
 .square-image {
 	width: 150px;
